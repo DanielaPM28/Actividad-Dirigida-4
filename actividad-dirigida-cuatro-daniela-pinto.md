@@ -10,6 +10,8 @@ La pandemia también afectó el flujo de viajeros al interior del país. En 2019
 
 </script>
 
+  
+  
 **Realización**
 
 Para la realización de la pieza de visualización desde cero, escogí el tema de viajes nacionales aéreos en Colombia para conocer el comportamiento del turismo doméstico por departamentos en el país. Al ingresar al Centro de Información Turística de Colombia [(CITUR)](https://www.citur.gov.co/estadisticas/df_pax_aereos_nacionales/all/15#gsc.tab=0) encontré los datos y los descargué en un archivo de Excel.
